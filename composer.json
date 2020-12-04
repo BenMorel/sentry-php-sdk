@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "sentry/sentry": "^3.1",
+        "sentry/sentry": "dev-php8-support",
         "http-interop/http-factory-guzzle": "^1.0",
         "symfony/http-client": "^4.3|^5.0"
     },
